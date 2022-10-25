@@ -1,4 +1,4 @@
-![A picture of Tsohle as a cartoon.](https://raw.githubusercontent.com/tsohleDev/tsohleDev/cartoonMe.jpg)
+![A picture of Tsohle as a cartoon.](./cartoonMe.jpg)
 
 <div id="about" align="center">
 
