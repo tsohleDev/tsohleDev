@@ -1,5 +1,6 @@
-<!-- ![A picture of Tsohle as a cartoon.](https://github.com/tsohleDev/tsohleDev/blob/main/cartoonME.jpg) -->
+<img src='https://github.com/tsohleDev/tsohleDev/blob/main/Ingoude%20Company.gif' width='100%'>
 
+</img>
 <div id="about" align="center">
 
 ## 
