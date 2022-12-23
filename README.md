@@ -7,7 +7,16 @@
 
 </div>
 
-I'm Tsohle and I'm a full stack software engineer based in the Free States of South Africa. I work in the Web development space, with game development skills, desktop and mobile development skills
+```javascript
+const tsohle = {
+  lookingFor: "Front-end developer" || "Full-stack web developer" || "Data Science",
+  pronouns: ["he", "him"],
+  languages: [JavaScript, C#, Python, C, and Ruby],
+  askMeAbout: [Web3, Machine Learning, Sci Fi's],
+  challenge: "I am honing data science and web3 technologies",
+  funFacts: "I enjoy Mathematics and anything complicated but with a solution except games 🤮"
+}
+```
 
 <br>
 
