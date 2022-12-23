@@ -52,7 +52,7 @@ const tsohle = {
 - **Cloud Hosting**:
   
   ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![Heroku](https://img.shields.io/badge/Azure%20-430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+  ![Heroku](https://img.shields.io/badge/Heroku%20-430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
   ![Azure](https://img.shields.io/badge/Azure%20-%231572B6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 - **Softwares and Tools**:
