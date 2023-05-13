@@ -11,10 +11,10 @@
 const tsohle = {
   lookingFor: "Front-end developer" || "Full-stack web developer" || "Data Science",
   pronouns: ["he", "him"],
-  languages: [JavaScript, C#, Python, C, and Ruby],
+  languages: [TypeScript, C#, Python, C, and Ruby],
   askMeAbout: [Web3, Machine Learning, Sci Fi's],
   challenge: "I am honing data science and web3 technologies",
-  funFacts: "I enjoy Mathematics and anything complicated but with a solution except games 🤮"
+  funFacts: "I enjoy Mathematics and anything complicated with a solution except games 🤮"
 }
 ```
 
