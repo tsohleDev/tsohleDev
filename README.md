@@ -26,7 +26,7 @@ const tsohle = {
 
 <br>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Skills**
+## <picture><img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWlvc3JrcGxuMjNtejZndHA5d2s1d2FlMzNwZW9zMnpteW12dmttMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rkcO4GYaWlHnvXj2XE/giphy.gif" width = 50px></picture> **Skills**
 
 - **Front-End Development**:
 - 
