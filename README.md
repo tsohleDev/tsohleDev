@@ -12,7 +12,7 @@ const tsohle = {
   lookingFor: "Back-end developer" || "Software engineer" || "Data Science",
   pronouns: ["he", "him"],
   languages: [TypeScript, C#, Python, C++],
-  askMeAbout: [Web development, Machine Learning, Sci-Fi],
+  askMeAbout: ["Web development", "Machine Learning", "Sci-Fi"],
   challenge: "I am honing my architecture skills",
   funFacts: "I enjoy studying new technology and software podcasts"
 }
